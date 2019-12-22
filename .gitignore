@@ -4,6 +4,7 @@ coverage/
 dist/
 !dist/index.html
 node_modules/
+.next/
 *.log
 
 # OS generated files
