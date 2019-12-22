@@ -6,6 +6,6 @@ Visit localhost:1234
 
 ### Server
 ```
-next build
+npm run dev
 ```
-Visit localhost:3000
+Visit http://localhost:3000/doughnut/demo1
