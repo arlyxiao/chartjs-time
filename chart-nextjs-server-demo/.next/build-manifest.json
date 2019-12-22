@@ -1,0 +1,32 @@
+{
+  "devFiles": [
+    "static/development/dll/dll_3b5cd2092921cf3da590.js",
+    "static/development/dll/dll_3b5cd2092921cf3da590.js.map"
+  ],
+  "pages": {
+    "/_app": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills.js",
+      "static/runtime/polyfills.js.map"
+    ],
+    "/doughnut/demo1": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/horizontal-bar/demo1": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/next/dist/pages/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ]
+  }
+}
