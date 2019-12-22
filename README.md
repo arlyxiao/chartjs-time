@@ -2,7 +2,7 @@
 ```
 npm start
 ```
-Visit localhost:1234
+Visit http://localhost:1234
 
 ### Server
 ```
